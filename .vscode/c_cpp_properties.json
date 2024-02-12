@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${default}",
+                "${workspaceFolder}/d3lib/include",
+                "${workspaceFolder}/GL/include",
+                "${workspaceFolder}/main/include",
+                "/usr/include/opencv4",
+                "${workspaceFolder}/shader",
+                "${workspaceFolder}/spf/include"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c17",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
